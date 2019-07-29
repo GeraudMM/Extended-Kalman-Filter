@@ -48,7 +48,6 @@ Here is the main protocol that main.cpp uses for uWebSocketIO in communicating w
 
 ["rmse_vy"]
 
----
 
 ### Other Important Dependencies
 
