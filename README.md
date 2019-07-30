@@ -9,6 +9,11 @@ In this project, we will use an extended kalman filter relying on a noisy Radar 
 
 ## Files description
 
+ - `Kalman.cpp` is the script file containing the Kalman class use to predict and update the state of our car.
+ 
+ - `FusionEKF.cpp` is the script file use to initialise the variables and decide which kalman function to use in which order.
+ 
+ - `Tools.cpp` is the script use to implement the RMSE (Root Main Square Error) of our kalman filter and also use to implement the jacobian function which is needed for the extended kalman filter update function.
 
 ## Getting Started
  
