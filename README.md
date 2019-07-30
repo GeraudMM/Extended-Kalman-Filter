@@ -1,11 +1,12 @@
-[image1]: example.gif "Intro GIF"
+[image1]: example.png "Intro GIF"
 
 # Extended-Kalman-Filter
-In this project, we will use an extended kalman filter relying on a noisy Radar and a Lidar measurements to estimate the state of a moving object on a 2D map. We can see the results in the gif bellow:
-
-![Driving Example][image1] 
 
 ## Introduction
+
+In this project, we will use an extended kalman filter relying on a noisy Radar and a Lidar measurements to estimate the state of a moving object on a 2D map. We can see the results in the image bellow:
+
+![Driving Example][image1] 
 
 ## Files description
 
