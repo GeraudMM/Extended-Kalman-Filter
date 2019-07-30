@@ -1,4 +1,5 @@
 [image1]: example.png "Intro GIF"
+[image2]: ZoomIn.png "Intro GIF"
 
 # Extended-Kalman-Filter
 
@@ -7,6 +8,10 @@
 In this project, we will use an extended kalman filter relying on a noisy Radar and a Lidar measurements to estimate the state of a moving object on a 2D map. We can see the results in the image bellow:
 
 ![Driving Example][image1] 
+
+Lidar measurements are red circles, radar measurements are blue circles with an arrow pointing in the direction of the observed angle, and estimation markers are green triangles. On the bellow image we can see them better:
+
+![Zoom In Example][image2] 
 
 ## Files description
 
