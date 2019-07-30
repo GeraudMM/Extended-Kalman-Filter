@@ -14,7 +14,9 @@ In this project, we will use an extended kalman filter relying on a noisy Radar 
  
 This project involves the Term 2 Simulator from Udacity which can be downloaded [here](https://github.com/udacity/self-driving-car-sim/releases).
 
-This repository includes two files that can be used to set up and install [uWebSocketIO](https://github.com/uWebSockets/uWebSockets) for either Linux or Mac systems. For windows you can use either Docker, VMware, or even [Windows 10 Bash on Ubuntu](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) to install uWebSocketIO.
+Download the Udacity [project](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project) on extended kalman filter and then replace the `kalman.cpp`, `FusionEKF.cpp` and `Tools.cpp` files in the `src` folder by the ones from this repository. 
+
+The Udacity repository includes two files that can be used to set up and install [uWebSocketIO](https://github.com/uWebSockets/uWebSockets) for either Linux or Mac systems. For windows you can use either Docker, VMware, or even [Windows 10 Bash on Ubuntu](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) to install uWebSocketIO.
 
 Once the install for uWebSocketIO is complete, the main program can be built and run by doing the following from the project top directory.
 
